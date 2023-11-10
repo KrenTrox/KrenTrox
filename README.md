@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shlomi</h1>
-<h3 align="center">A passionate full stack developer & Developement Department Manager</h3>
+<h3 align="center">Web Team Lead | Tech Guru | Crafting Cutting-Edge Solutions for an Enhanced Digital Experience 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krentrox" alt="krentrox" /></a> </p>
 
