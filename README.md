@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Problem-Solving Web Team Leader | Senior Web Developer | Passionate about Building Web apps 🌐💪</h3>
 
 <p>
-  Experienced Web Team Leader with a strong focus on Next.js and React, excelling in guiding development teams to create high-quality web solutions.
+  Experienced Frontend Tech Lead with a strong focus on Next.js and React, excelling in guiding development teams to create high-quality web solutions.
   <br>
   Proficient in leveraging the capabilities of Next.js for server-side rendering and static site generation, paired with extensive expertise in crafting responsive, user-centric interfaces using React.
   <br>
