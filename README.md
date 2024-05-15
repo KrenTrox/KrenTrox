@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shlomi</h1>
-<h3 align="center">🚀 Problem-Solving Web Team Leader | Senior Web Developer | Passionate about Building Web apps 🌐💪</h3>
+<h3 align="center">🚀 Problem-Solving Frontend Tech Lead | Senior Web Developer | Passionate about Building Web apps 🌐💪</h3>
 
 <p>
   Experienced Frontend Tech Lead with a strong focus on Next.js and React, excelling in guiding development teams to create high-quality web solutions.
