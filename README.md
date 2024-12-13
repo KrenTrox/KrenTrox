@@ -7,6 +7,8 @@
   Proficient in leveraging the capabilities of Next.js for server-side rendering and static site generation, paired with extensive expertise in crafting responsive, user-centric interfaces using React.
   <br>
   Skilled in promoting effective teamwork, ensuring code quality, and adept at troubleshooting and problem-solving, contributing to continuous innovation and company growth.
+  <br>
+  Expert in CSS, HTML and SEO best practices.
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krentrox" alt="krentrox" /></a> </p>
