@@ -16,5 +16,3 @@
 <a href="https://dev.to/krentrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krentrox" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shlomi-sela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomi-sela-78a62519a" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krentrox" alt="krentrox" /></p>
