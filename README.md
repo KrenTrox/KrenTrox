@@ -17,4 +17,4 @@
 <a href="https://linkedin.com/in/shlomi-sela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomi-sela-78a62519a" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krentrox&" alt="krentrox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krentrox" alt="krentrox" /></p>
